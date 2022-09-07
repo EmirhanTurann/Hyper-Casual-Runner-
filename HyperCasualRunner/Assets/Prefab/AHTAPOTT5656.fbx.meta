@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: 849ae5759e672fe4c930957955335006
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -8004239625534680623
+    second: Tentacla UV FIN.006|Cone.021Action
+  - first:
+      74: 6927951815969925685
+    second: Tentacla UV FIN.006|OPM0041.001Action
+  - first:
+      74: -1590261726223410866
+    second: Tentacla UV FIN.006|OPM0041.005Action
+  - first:
+      74: -6423840424656315901
+    second: Tentacla UV FIN.006|OPM0041Action
+  - first:
+      74: 6779780875567448226
+    second: Tentacla UV FIN.006|Sphere.003Action
+  - first:
+      74: -2599832470479856025
+    second: Tentacla UV FIN.006|SphereAction
+  - first:
+      74: -8720582704503173609
+    second: Tentacla UV FIN.006|Tentacla UV FIN.001Action
+  - first:
+      74: 5472293904609950177
+    second: Tentacla UV FIN.006|Tentacla UV FIN.006Action
+  - first:
+      74: 3089923793514396100
+    second: Tentacla UV FIN.006|Tentacla UV FIN.007Action
+  - first:
+      74: -5115747208236020129
+    second: Tentacla UV FIN.006|Tentacla UV FIN.008Action
+  - first:
+      74: 748956216838259528
+    second: Tentacla UV FIN.006|Tentacla UV FIN.010Action
+  - first:
+      74: -6327199644749844809
+    second: Tentacla UV FIN.007|Cone.021Action
+  - first:
+      74: 7402284351346005395
+    second: Tentacla UV FIN.007|OPM0041.001Action
+  - first:
+      74: 7364648755107688413
+    second: Tentacla UV FIN.007|OPM0041.005Action
+  - first:
+      74: 3632899666936408685
+    second: Tentacla UV FIN.007|OPM0041Action
+  - first:
+      74: -2777211147100213499
+    second: Tentacla UV FIN.007|Sphere.003Action
+  - first:
+      74: -1239832689073616346
+    second: Tentacla UV FIN.007|SphereAction
+  - first:
+      74: 7294314940810213007
+    second: Tentacla UV FIN.007|Tentacla UV FIN.001Action
+  - first:
+      74: -6394810690111630521
+    second: Tentacla UV FIN.007|Tentacla UV FIN.006Action
+  - first:
+      74: 6278265485935748389
+    second: Tentacla UV FIN.007|Tentacla UV FIN.007Action
+  - first:
+      74: 3815841226326608754
+    second: Tentacla UV FIN.007|Tentacla UV FIN.008Action
+  - first:
+      74: -627567587405225218
+    second: Tentacla UV FIN.007|Tentacla UV FIN.010Action
+  - first:
+      74: 7052276648142619211
+    second: Tentacla UV FIN.008|Cone.021Action
+  - first:
+      74: 7968257408575350216
+    second: Tentacla UV FIN.008|OPM0041.001Action
+  - first:
+      74: 3149959218261351965
+    second: Tentacla UV FIN.008|OPM0041.005Action
+  - first:
+      74: 5667582280304918879
+    second: Tentacla UV FIN.008|OPM0041Action
+  - first:
+      74: 8829681013612153855
+    second: Tentacla UV FIN.008|Sphere.003Action
+  - first:
+      74: 7434871554338636621
+    second: Tentacla UV FIN.008|SphereAction
+  - first:
+      74: -4123952940322811186
+    second: Tentacla UV FIN.008|Tentacla UV FIN.001Action
+  - first:
+      74: 132253055467670263
+    second: Tentacla UV FIN.008|Tentacla UV FIN.006Action
+  - first:
+      74: -8152630497108999875
+    second: Tentacla UV FIN.008|Tentacla UV FIN.007Action
+  - first:
+      74: 7536522060447623699
+    second: Tentacla UV FIN.008|Tentacla UV FIN.008Action
+  - first:
+      74: 1435052341664652878
+    second: Tentacla UV FIN.008|Tentacla UV FIN.010Action
+  - first:
+      74: -3842069635174542302
+    second: Tentacla UV FIN.010|Cone.021Action
+  - first:
+      74: -2977655281906130292
+    second: Tentacla UV FIN.010|OPM0041.001Action
+  - first:
+      74: 1547497233121322387
+    second: Tentacla UV FIN.010|OPM0041.005Action
+  - first:
+      74: -6459288089609018208
+    second: Tentacla UV FIN.010|OPM0041Action
+  - first:
+      74: 9110002737673729850
+    second: Tentacla UV FIN.010|Sphere.003Action
+  - first:
+      74: -1697684878755197417
+    second: Tentacla UV FIN.010|SphereAction
+  - first:
+      74: 5467515214492758107
+    second: Tentacla UV FIN.010|Tentacla UV FIN.001Action
+  - first:
+      74: 8368004236750742140
+    second: Tentacla UV FIN.010|Tentacla UV FIN.006Action
+  - first:
+      74: 2528135667951605383
+    second: Tentacla UV FIN.010|Tentacla UV FIN.007Action
+  - first:
+      74: 1890720241831111145
+    second: Tentacla UV FIN.010|Tentacla UV FIN.008Action
+  - first:
+      74: 2537704381640087628
+    second: Tentacla UV FIN.010|Tentacla UV FIN.010Action
+  - first:
+      74: 4240426681024707816
+    second: Sphere|Cone.021Action
+  - first:
+      74: 6246371393937151489
+    second: Sphere|OPM0041.001Action
+  - first:
+      74: 33299563174741580
+    second: Sphere|OPM0041.005Action
+  - first:
+      74: -9213433721849537603
+    second: Sphere|OPM0041Action
+  - first:
+      74: -7118779691763641570
+    second: Sphere|Sphere.003Action
+  - first:
+      74: -3100628101864396295
+    second: Sphere|SphereAction
+  - first:
+      74: -7233146955080674325
+    second: Sphere|Tentacla UV FIN.001Action
+  - first:
+      74: -7193130770595687052
+    second: Sphere|Tentacla UV FIN.006Action
+  - first:
+      74: -4249517866320342781
+    second: Sphere|Tentacla UV FIN.007Action
+  - first:
+      74: -1351927627925509689
+    second: Sphere|Tentacla UV FIN.008Action
+  - first:
+      74: -167252664198657735
+    second: Sphere|Tentacla UV FIN.010Action
+  - first:
+      74: -834940988574436805
+    second: Tentacla UV FIN.001|Cone.021Action
+  - first:
+      74: 7547569533417178117
+    second: Tentacla UV FIN.001|OPM0041.001Action
+  - first:
+      74: -8621931939842715509
+    second: Tentacla UV FIN.001|OPM0041.005Action
+  - first:
+      74: -7134189790749334337
+    second: Tentacla UV FIN.001|OPM0041Action
+  - first:
+      74: 4910375593617300976
+    second: Tentacla UV FIN.001|Sphere.003Action
+  - first:
+      74: 2827468036181826679
+    second: Tentacla UV FIN.001|SphereAction
+  - first:
+      74: 7324565141116847474
+    second: Tentacla UV FIN.001|Tentacla UV FIN.001Action
+  - first:
+      74: -558705249833236168
+    second: Tentacla UV FIN.001|Tentacla UV FIN.006Action
+  - first:
+      74: -5317200194591306998
+    second: Tentacla UV FIN.001|Tentacla UV FIN.007Action
+  - first:
+      74: -2774197510023096622
+    second: Tentacla UV FIN.001|Tentacla UV FIN.008Action
+  - first:
+      74: -8750613315627398747
+    second: Tentacla UV FIN.001|Tentacla UV FIN.010Action
+  - first:
+      74: -4197625435957618287
+    second: OPM0041|Cone.021Action
+  - first:
+      74: -8892407730852144596
+    second: OPM0041|OPM0041.001Action
+  - first:
+      74: -7347096244653800417
+    second: OPM0041|OPM0041.005Action
+  - first:
+      74: -6446885962822004114
+    second: OPM0041|OPM0041Action
+  - first:
+      74: -9107060927498926749
+    second: OPM0041|Sphere.003Action
+  - first:
+      74: -1526171725871296923
+    second: OPM0041|SphereAction
+  - first:
+      74: -6564010940390373908
+    second: OPM0041|Tentacla UV FIN.001Action
+  - first:
+      74: 2895762010046831921
+    second: OPM0041|Tentacla UV FIN.006Action
+  - first:
+      74: 5559985621617930261
+    second: OPM0041|Tentacla UV FIN.007Action
+  - first:
+      74: -4031815823760571140
+    second: OPM0041|Tentacla UV FIN.008Action
+  - first:
+      74: -1122173431521226554
+    second: OPM0041|Tentacla UV FIN.010Action
+  - first:
+      74: -8458515101529472269
+    second: OPM0041.001|Cone.021Action
+  - first:
+      74: -7684558789571271088
+    second: OPM0041.001|OPM0041.001Action
+  - first:
+      74: -4607238493348561215
+    second: OPM0041.001|OPM0041.005Action
+  - first:
+      74: -1867275324173778721
+    second: OPM0041.001|OPM0041Action
+  - first:
+      74: -8574993364509076041
+    second: OPM0041.001|Sphere.003Action
+  - first:
+      74: -5903641496037711025
+    second: OPM0041.001|SphereAction
+  - first:
+      74: -3186909936611065560
+    second: OPM0041.001|Tentacla UV FIN.001Action
+  - first:
+      74: 3483242397690948227
+    second: OPM0041.001|Tentacla UV FIN.006Action
+  - first:
+      74: -1308276917736397744
+    second: OPM0041.001|Tentacla UV FIN.007Action
+  - first:
+      74: -3585936737244421345
+    second: OPM0041.001|Tentacla UV FIN.008Action
+  - first:
+      74: -8959627822418085538
+    second: OPM0041.001|Tentacla UV FIN.010Action
+  - first:
+      74: -4159473052584536723
+    second: OPM0041.005|Cone.021Action
+  - first:
+      74: 2295745338301252031
+    second: OPM0041.005|OPM0041.001Action
+  - first:
+      74: 3417810811512013717
+    second: OPM0041.005|OPM0041.005Action
+  - first:
+      74: -11561517293910640
+    second: OPM0041.005|OPM0041Action
+  - first:
+      74: 2773466562221620167
+    second: OPM0041.005|Sphere.003Action
+  - first:
+      74: -4492826878800153993
+    second: OPM0041.005|SphereAction
+  - first:
+      74: 3438393412813803618
+    second: OPM0041.005|Tentacla UV FIN.001Action
+  - first:
+      74: -8560687851214200149
+    second: OPM0041.005|Tentacla UV FIN.006Action
+  - first:
+      74: 2595257012027023183
+    second: OPM0041.005|Tentacla UV FIN.007Action
+  - first:
+      74: -712853243311266054
+    second: OPM0041.005|Tentacla UV FIN.008Action
+  - first:
+      74: 8936835725984135728
+    second: OPM0041.005|Tentacla UV FIN.010Action
+  - first:
+      74: 5342479880158961306
+    second: Sphere.003|Cone.021Action
+  - first:
+      74: 7963693294212073837
+    second: Sphere.003|OPM0041.001Action
+  - first:
+      74: -845757273404359986
+    second: Sphere.003|OPM0041.005Action
+  - first:
+      74: 4202248938680703816
+    second: Sphere.003|OPM0041Action
+  - first:
+      74: 4813486975980345074
+    second: Sphere.003|Sphere.003Action
+  - first:
+      74: -8414766829692295480
+    second: Sphere.003|SphereAction
+  - first:
+      74: 1150785629097467513
+    second: Sphere.003|Tentacla UV FIN.001Action
+  - first:
+      74: -8503030404199254933
+    second: Sphere.003|Tentacla UV FIN.006Action
+  - first:
+      74: -1305841687790784977
+    second: Sphere.003|Tentacla UV FIN.007Action
+  - first:
+      74: 2810386286016231814
+    second: Sphere.003|Tentacla UV FIN.008Action
+  - first:
+      74: 6686514639917242578
+    second: Sphere.003|Tentacla UV FIN.010Action
+  - first:
+      74: 7709686125681325085
+    second: Armature|Armature.001Action
+  - first:
+      74: 9128885920207887336
+    second: Armature|Armature.002Action
+  - first:
+      74: 6700736005108088550
+    second: Armature|Armature.003Action
+  - first:
+      74: -15885006928996777
+    second: Armature|Armature.004Action
+  - first:
+      74: 8866493422351681327
+    second: Armature|Armature.005Action
+  - first:
+      74: -1422011007694221501
+    second: Armature|ArmatureAction.001
+  - first:
+      74: 3374524159970634562
+    second: Armature|Cone.021Action
+  - first:
+      74: -6774286806104358878
+    second: Armature|OPM0041.001Action
+  - first:
+      74: -8685399784606284228
+    second: Armature|OPM0041.005Action
+  - first:
+      74: -4872623339794591321
+    second: Armature|OPM0041Action
+  - first:
+      74: -7619437594799874802
+    second: Armature|Sphere.003Action
+  - first:
+      74: -6788291789069941537
+    second: Armature|SphereAction
+  - first:
+      74: 3642389771091016204
+    second: Armature|Tentacla UV FIN.001Action
+  - first:
+      74: 2260323459128231692
+    second: Armature|Tentacla UV FIN.006Action
+  - first:
+      74: 8810562077551733688
+    second: Armature|Tentacla UV FIN.007Action
+  - first:
+      74: 6550067261390062030
+    second: Armature|Tentacla UV FIN.008Action
+  - first:
+      74: -5215600259204698881
+    second: Armature|Tentacla UV FIN.010Action
+  - first:
+      74: 2264077025236624520
+    second: Armature.001|Armature.001Action
+  - first:
+      74: -1153017888000365145
+    second: Armature.001|Armature.002Action
+  - first:
+      74: -7376977406845123523
+    second: Armature.001|Armature.003Action
+  - first:
+      74: -9069736461833792049
+    second: Armature.001|Armature.004Action
+  - first:
+      74: -5142241952092147453
+    second: Armature.001|Armature.005Action
+  - first:
+      74: -8639993316982285888
+    second: Armature.001|ArmatureAction.001
+  - first:
+      74: 5792786847950314584
+    second: Armature.001|Cone.021Action
+  - first:
+      74: -294301297658772315
+    second: Armature.001|OPM0041.001Action
+  - first:
+      74: -503473277198731570
+    second: Armature.001|OPM0041.005Action
+  - first:
+      74: 4698393827238348036
+    second: Armature.001|OPM0041Action
+  - first:
+      74: -9108339430839370450
+    second: Armature.001|Sphere.003Action
+  - first:
+      74: 321854807225151480
+    second: Armature.001|SphereAction
+  - first:
+      74: -6063843115763136400
+    second: Armature.001|Tentacla UV FIN.001Action
+  - first:
+      74: 1326778041907047573
+    second: Armature.001|Tentacla UV FIN.006Action
+  - first:
+      74: 919094296919872974
+    second: Armature.001|Tentacla UV FIN.007Action
+  - first:
+      74: 6596292872794959129
+    second: Armature.001|Tentacla UV FIN.008Action
+  - first:
+      74: -1141085233758907070
+    second: Armature.001|Tentacla UV FIN.010Action
+  - first:
+      74: 6906267723572508546
+    second: Armature.002|Armature.001Action
+  - first:
+      74: 5138602965388526686
+    second: Armature.002|Armature.002Action
+  - first:
+      74: -5505715565960345857
+    second: Armature.002|Armature.003Action
+  - first:
+      74: 3530596194268279727
+    second: Armature.002|Armature.004Action
+  - first:
+      74: -5382724091580818210
+    second: Armature.002|Armature.005Action
+  - first:
+      74: 8368265636151829555
+    second: Armature.002|ArmatureAction.001
+  - first:
+      74: -8625920931894438701
+    second: Armature.002|Cone.021Action
+  - first:
+      74: 1736487959153259206
+    second: Armature.002|OPM0041.001Action
+  - first:
+      74: 1709557269541998902
+    second: Armature.002|OPM0041.005Action
+  - first:
+      74: 8736062377227045487
+    second: Armature.002|OPM0041Action
+  - first:
+      74: 292065227912937086
+    second: Armature.002|Sphere.003Action
+  - first:
+      74: 3907759060490781262
+    second: Armature.002|SphereAction
+  - first:
+      74: -7769443009699261646
+    second: Armature.002|Tentacla UV FIN.001Action
+  - first:
+      74: -5669083563706149564
+    second: Armature.002|Tentacla UV FIN.006Action
+  - first:
+      74: -7584772526948604172
+    second: Armature.002|Tentacla UV FIN.007Action
+  - first:
+      74: 7525566841467766577
+    second: Armature.002|Tentacla UV FIN.008Action
+  - first:
+      74: -2971643089662959713
+    second: Armature.002|Tentacla UV FIN.010Action
+  - first:
+      74: 3598511621795961054
+    second: Armature.003|Armature.001Action
+  - first:
+      74: -894896622507537408
+    second: Armature.003|Armature.002Action
+  - first:
+      74: 8645343760740499401
+    second: Armature.003|Armature.003Action
+  - first:
+      74: -472127104101072145
+    second: Armature.003|Armature.004Action
+  - first:
+      74: -411841847731389286
+    second: Armature.003|Armature.005Action
+  - first:
+      74: -4892983548465906659
+    second: Armature.003|ArmatureAction.001
+  - first:
+      74: -165572175777448223
+    second: Armature.003|Cone.021Action
+  - first:
+      74: 1749452447720727675
+    second: Armature.003|OPM0041.001Action
+  - first:
+      74: -5229959628325012647
+    second: Armature.003|OPM0041.005Action
+  - first:
+      74: 7804061232934345463
+    second: Armature.003|OPM0041Action
+  - first:
+      74: 2651396525420453383
+    second: Armature.003|Sphere.003Action
+  - first:
+      74: 2243378827706756436
+    second: Armature.003|SphereAction
+  - first:
+      74: -5382246832939705516
+    second: Armature.003|Tentacla UV FIN.001Action
+  - first:
+      74: -3713510640239933970
+    second: Armature.003|Tentacla UV FIN.006Action
+  - first:
+      74: -1928693344514828320
+    second: Armature.003|Tentacla UV FIN.007Action
+  - first:
+      74: -4532090390135509890
+    second: Armature.003|Tentacla UV FIN.008Action
+  - first:
+      74: -4828470797905193717
+    second: Armature.003|Tentacla UV FIN.010Action
+  - first:
+      74: -9027478188125155498
+    second: Armature.004|Armature.001Action
+  - first:
+      74: 4867429941484902380
+    second: Armature.004|Armature.002Action
+  - first:
+      74: -8202691109779532850
+    second: Armature.004|Armature.003Action
+  - first:
+      74: -5669740592792570897
+    second: Armature.004|Armature.004Action
+  - first:
+      74: 2200778306023475783
+    second: Armature.004|Armature.005Action
+  - first:
+      74: 8053289802780196075
+    second: Armature.004|ArmatureAction.001
+  - first:
+      74: -2710391879204359134
+    second: Armature.004|Cone.021Action
+  - first:
+      74: 3746627757493372235
+    second: Armature.004|OPM0041.001Action
+  - first:
+      74: 6113900439299520393
+    second: Armature.004|OPM0041.005Action
+  - first:
+      74: 5025689160368464595
+    second: Armature.004|OPM0041Action
+  - first:
+      74: -7573876995019225592
+    second: Armature.004|Sphere.003Action
+  - first:
+      74: -1287588576501025927
+    second: Armature.004|SphereAction
+  - first:
+      74: 4262021338996395129
+    second: Armature.004|Tentacla UV FIN.001Action
+  - first:
+      74: -5677330657008063151
+    second: Armature.004|Tentacla UV FIN.006Action
+  - first:
+      74: 5489965363939326173
+    second: Armature.004|Tentacla UV FIN.007Action
+  - first:
+      74: -6838246613405520444
+    second: Armature.004|Tentacla UV FIN.008Action
+  - first:
+      74: -5361132886677101788
+    second: Armature.004|Tentacla UV FIN.010Action
+  - first:
+      74: 757680236502806908
+    second: Cone.021|Cone.021Action
+  - first:
+      74: -2950755898839553284
+    second: Cone.021|OPM0041.001Action
+  - first:
+      74: -8144801400741747718
+    second: Cone.021|OPM0041.005Action
+  - first:
+      74: 3764320756349403518
+    second: Cone.021|OPM0041Action
+  - first:
+      74: 6475733429432185130
+    second: Cone.021|Sphere.003Action
+  - first:
+      74: -4134346395122930622
+    second: Cone.021|SphereAction
+  - first:
+      74: 4083519210672952069
+    second: Cone.021|Tentacla UV FIN.001Action
+  - first:
+      74: 3427227505084390366
+    second: Cone.021|Tentacla UV FIN.006Action
+  - first:
+      74: 6677088931228022710
+    second: Cone.021|Tentacla UV FIN.007Action
+  - first:
+      74: 8547710373536455341
+    second: Cone.021|Tentacla UV FIN.008Action
+  - first:
+      74: -2069902253328575073
+    second: Cone.021|Tentacla UV FIN.010Action
+  - first:
+      74: 3379960435701499455
+    second: Armature.005|Armature.001Action
+  - first:
+      74: 7693348722931728473
+    second: Armature.005|Armature.002Action
+  - first:
+      74: -1668140584559971927
+    second: Armature.005|Armature.003Action
+  - first:
+      74: -5346695045666235549
+    second: Armature.005|Armature.004Action
+  - first:
+      74: 7413068192051285482
+    second: Armature.005|Armature.005Action
+  - first:
+      74: 7275959300011733335
+    second: Armature.005|ArmatureAction.001
+  - first:
+      74: -3590626050383842405
+    second: Armature.005|Cone.021Action
+  - first:
+      74: 7926706973536602425
+    second: Armature.005|OPM0041.001Action
+  - first:
+      74: 2893963487340557588
+    second: Armature.005|OPM0041.005Action
+  - first:
+      74: 7486712379809786891
+    second: Armature.005|OPM0041Action
+  - first:
+      74: -1660127778913877243
+    second: Armature.005|Sphere.003Action
+  - first:
+      74: 8217349552556529979
+    second: Armature.005|SphereAction
+  - first:
+      74: 7842279198987026032
+    second: Armature.005|Tentacla UV FIN.001Action
+  - first:
+      74: -4402935278982588478
+    second: Armature.005|Tentacla UV FIN.006Action
+  - first:
+      74: 2916826060121587288
+    second: Armature.005|Tentacla UV FIN.007Action
+  - first:
+      74: -2374775763110351771
+    second: Armature.005|Tentacla UV FIN.008Action
+  - first:
+      74: -8783286923663384341
+    second: Armature.005|Tentacla UV FIN.010Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

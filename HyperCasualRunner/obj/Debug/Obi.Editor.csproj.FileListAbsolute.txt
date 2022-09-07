@@ -1,0 +1,2 @@
+C:\Users\Emirhan Turan\Project S\obj\Debug\Obi.Editor.csproj.AssemblyReference.cache
+C:\Users\Emirhan Turan\Project S\obj\Debug\Obi.Editor.csproj.CoreCompileInputs.cache

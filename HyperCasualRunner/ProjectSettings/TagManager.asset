@@ -3,7 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Book
+  - Door
+  - Enemy
+  - Door-2
+  - Door-3
+  - Door-5
+  - Door+2
+  - Door+3
+  - Door-1
+  - octopusArm
+  - Saw
+  - Group1
+  - Group2
+  - deathTrigger
+  - trap
+  - finish
+  - octopusSaw
+  - octopusSawtrigger
+  - flyman
+  - portalTrap
+  - Door+5
+  - fallTrigger
+  - octopusarmstrap_Triger
+  - Doorx2
+  - portalmakerTrigger
+  - Door+10
+  - Door-7
   layers:
   - Default
   - TransparentFX
@@ -11,7 +38,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Post Processing
   - 
   - 
   - 
